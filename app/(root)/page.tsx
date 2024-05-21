@@ -1,7 +1,8 @@
-import Image from "next/image";
 
 export default function Home() {
   return (
-   <div>Caixinha Store</div>
+    <div>
+      Home Page
+    </div>
   );
 }
